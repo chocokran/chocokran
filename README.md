@@ -28,12 +28,12 @@
 <h3 align="left">🔧 Network & Security Tools:</h3>
 <p align="left">
   <a href="https://www.f5.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/F5_Networks_logo.svg/120px-F5_Networks_logo.svg.png" alt="F5" width="50" height="50"/>
+    <img src="https://tse4.mm.bing.net/th?id=OIP.YIPdM-bK17nvrTtebK9yGwHaE8&pid=Api" alt="F5" width="100"/>
   </a>
   <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cisco_logo.svg" alt="Cisco" width="80" height="40"/>
+    <img src="https://tse2.mm.bing.net/th?id=OIP._DniSnYiVI2-8QnTMRcSAwHaE8&pid=Api" alt="Cisco" width="100"/>
   </a>
   <a href="https://www.infoblox.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.infoblox.com/wp-content/uploads/infoblox-logo.png" alt="Infoblox" width="80" height="40"/>
+    <img src="https://tse2.mm.bing.net/th?id=OIP.8t5UYTHPInNSpoUvwMdFuAHaHa&pid=Api" alt="Infoblox" width="100"/>
   </a>
 </p>
