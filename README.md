@@ -34,6 +34,6 @@
     <img src="https://assets.datamation.com/uploads/2021/12/Cisco-logo.png" alt="Cisco" width="100"/>
   </a>
   <a href="https://www.infoblox.com/" target="_blank" rel="noreferrer">
-    <img src="https://tse2.mm.bing.net/th?id=OIP.8t5UYTHPInNSpoUvwMdFuAHaHa&pid=Api" alt="Infoblox" width="100"/>
+    <img src="https://servicedesk.logpoint.com/hc/article_attachments/17811693635101" alt="Infoblox" width="100"/>
   </a>
 </p>
