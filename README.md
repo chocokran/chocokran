@@ -31,7 +31,7 @@
     <img src="https://tse4.mm.bing.net/th?id=OIP.YIPdM-bK17nvrTtebK9yGwHaE8&pid=Api" alt="F5" width="100"/>
   </a>
   <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
-    <img src="https://tse2.mm.bing.net/th?id=OIP._DniSnYiVI2-8QnTMRcSAwHaE8&pid=Api" alt="Cisco" width="100"/>
+    <img src="[https://tse2.mm.bing.net/th?id=OIP._DniSnYiVI2-8QnTMRcSAwHaE8&pid=Api](https://assets.datamation.com/uploads/2021/12/Cisco-logo.png)" alt="Cisco" width="100"/>
   </a>
   <a href="https://www.infoblox.com/" target="_blank" rel="noreferrer">
     <img src="https://tse2.mm.bing.net/th?id=OIP.8t5UYTHPInNSpoUvwMdFuAHaHa&pid=Api" alt="Infoblox" width="100"/>
